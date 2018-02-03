@@ -1,7 +1,8 @@
 # Behavior-Perception-Application
 Developed a steps-monitoring APP based on machine learning method on android platform.
 
-This repository is built for documenting and reproducing the project in CAS, Beijing, 07/2016.
+This repository is built for documenting and reproducing the project in CAS, Beijing, 07/2016.  
+For more details and Chinese version, please visit my tutor's file ([@ydcun](https://github.com/ydcun))
 
 ## Enviroment & Equipment
   * Cell Phone with Android operating system and acceleration sensors 
